@@ -24,6 +24,9 @@ Guess what ? I have studied for android developer and now I am Junior Android De
 
 
 # Get in touch 📬
+- [Instagram](https://www.instagram.com/bakaismailov/)
+- [Facebook](https://www.facebook.com/Isamailov)
+- Number +996700990182
 
 
 
