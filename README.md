@@ -1,5 +1,5 @@
 
-# Hi, I'm Bakai! :wave:
+# Hey There, I'm Bakai! :wave:
 
 
 I am android developer. I am based in Bishkek, Kyrgyzstan  currently. 
