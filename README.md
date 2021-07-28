@@ -1,5 +1,5 @@
 
-# Hi, I'm Bakai! 👋
+# Hi, I'm Bakai! :wave:
 
 
 I am android developer. I am based in Bishkek, Kyrgyzstan  currently. 
@@ -21,3 +21,10 @@ Guess what ? I have studied for android developer and now I am Junior Android De
 - 🌱 planning to learn X-Code with SWIFT, Flutter
 - 👯 I’m looking to collaborate on Android Projects! 
 - ⚡ Fun fact: Hate dirty displays 
+
+
+# Get in touch 📬
+
+
+
+# Check out my repos ⬇️
