@@ -18,7 +18,7 @@ Guess what ? I have studied for android and ios developer and now I am Junior An
 # Currently 👨‍💻
   
 - 🔭 I’m currently working on [https://github.com/Mr-Bakai/MovieManiac](https://github.com/Mr-Bakai/MovieManiac)
-- 🌱 planning to learn X-Code with SWIFT, Flutter
+- 🌱 planning Flutter
 - 👯 I’m looking to collaborate on Android/IOS Projects! 
 - ⚡ Fun fact: Hate dirty displays 
 
