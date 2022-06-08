@@ -17,7 +17,7 @@ Guess what ? I have studied for android developer and now I am Junior Android De
   
 # Currently 👨‍💻
   
-- 🔭 I’m currently working on https://github.com/Mr-Bakai/BDCalculator
+- 🔭 I’m currently working on [https://github.com/Mr-Bakai/BDCalculator](https://github.com/Mr-Bakai/MovieManiac)
 - 🌱 planning to learn X-Code with SWIFT, Flutter
 - 👯 I’m looking to collaborate on Android Projects! 
 - ⚡ Fun fact: Hate dirty displays 
