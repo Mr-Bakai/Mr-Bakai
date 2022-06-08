@@ -17,16 +17,15 @@ Guess what ? I have studied for android developer and now I am Junior Android De
   
 # Currently 👨‍💻
   
-- 🔭 I’m currently working on [https://github.com/Mr-Bakai/BDCalculator](https://github.com/Mr-Bakai/MovieManiac)
+- 🔭 I’m currently working on [https://github.com/Mr-Bakai/MovieManiac](https://github.com/Mr-Bakai/MovieManiac)
 - 🌱 planning to learn X-Code with SWIFT, Flutter
 - 👯 I’m looking to collaborate on Android Projects! 
 - ⚡ Fun fact: Hate dirty displays 
 
 
 # Get in touch 📬
-- [Instagram](https://www.instagram.com/bakaismailov/)
 - [Facebook](https://www.facebook.com/Isamailov)
-- Number +996700990182
+- U.A.E number: +971581858431
 
 
 
