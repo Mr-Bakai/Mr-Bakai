@@ -2,7 +2,7 @@
 # Hey There! I'm Bakai! :wave:
 
 
-I am android and ios developer. I am based in Dubai, U.A.E  currently. 
+I am android and ios developer. I am based in Bishkek, KYRGYZSTAN  currently. 
 
 Since I was a kid I was curious about computing and always wanted to understand  how certain things would work.\
 Guess what ? I have studied for android and ios developer and now I am Junior Android and ios Developer! Looking for more knowledge and interesting project to work with! 
@@ -25,7 +25,7 @@ Guess what ? I have studied for android and ios developer and now I am Junior An
 
 # Get in touch 📬
 - [Facebook](https://www.facebook.com/Isamailov)
-- U.A.E number: +971581858431
+- KG number: +996700990182
 
 
 
