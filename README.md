@@ -17,9 +17,7 @@ Guess what ? I have studied for android and ios developer and now I am iOS/Andro
   
 # Currently 👨‍💻
   
-- 🔭 I’m currently working on [https://github.com/Mr-Bakai/MovieManiac](https://github.com/Mr-Bakai/MovieManiac)
-- 🌱 planning Flutter
-- 👯 I’m looking to collaborate on Android/IOS Projects! 
+- 👯 I’m looking to collaborate on IOS Projects! 
 - ⚡ Fun fact: Hate dirty displays 
 
 
