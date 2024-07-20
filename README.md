@@ -23,7 +23,8 @@ Guess what ? I have studied for android and ios developer and now I am iOS/Andro
 
 # Get in touch 📬
 - [Facebook](https://www.facebook.com/Isamailov)
-- KG number: +996700990182
+- Phone number: +996998682828
+- Telegram: +996998682828
 
 
 
