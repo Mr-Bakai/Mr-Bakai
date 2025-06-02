@@ -2,7 +2,7 @@
 # Hey There! I'm Bakai! :wave:
 
 
-I am ios/android developer. I am based in Bishkek, KYRGYZSTAN  currently. 
+I am ios/android developer. I am based in Tokyo, Japan.
 
 Since I was a kid I was curious about computing and always wanted to understand  how certain things would work.\
 Guess what ? I have studied ios/android developer and now I am iOS/Android Developer! Looking for more knowledge and interesting project to work with! 
