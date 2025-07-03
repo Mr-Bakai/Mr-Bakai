@@ -20,11 +20,5 @@ Guess what ? I have studied ios/android developer and now I am iOS/Android Devel
 - ⚡ Fun fact: Hate dirty displays 
 
 
-# Get in touch 📬
-- [Facebook](https://www.facebook.com/Isamailov)
-- Phone number: +996998682828
-- Telegram: +996998682828
-
-
 
 # Check out my repos ⬇️
